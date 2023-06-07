@@ -4,7 +4,7 @@
 #### The repository contains the scripts and the data used for constructing the plots, as well as a Jupyter notebook that illustrates how this method can be applied to a 2D system that was discussed in the paper.
 #### [Nbviewer link if github can't render](https://nbviewer.org/github/ansingh1214/Deep-VPS/blob/1/DeepVPS.ipynb)
 ## ##
-#### For the illustration, we show how this method can be used to get the time-dependent committment probabilities and the corresponding Doob potential and forces for reactive events:
+#### For the illustration, we show how this method can be used to get the time-dependent commitment probabilities and the corresponding Doob potential and forces for reactive events:
 ![viz1](https://github.com/ansingh1214/Deep-VPS/blob/1/anim/viz1.gif)
 ## ##
 #### The form of the loss is given by the difference in Onsager-Machlup action, that provides a natural way to decompose the reactive rate into effective contributions from different degress of freedom. This allows us to infer the importance of different descriptors to the reactive event without making a-priori assumptions
