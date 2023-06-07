@@ -2,7 +2,7 @@
 ### Repository for the work [Variational deep learning of equilibrium transition path ensembles](https://arxiv.org/abs/2302.14857), in which we develop a novel method to infer rates, time-dependent committment probabilities and the importance of reaction descriptors from a reactive trajectory ensemble. 
 
 #### The repository contains the scripts and the data used for constructing the plots, as well as a Jupyter notebook that illustrates how this method can be applied to a 2D system that was discussed in the paper.
-#### [Nbviewer link if github can't render](https://nbviewer.org/github/ansingh1214/Deep-VPS/blob/1/DeepVPS.ipynb):
+#### [Nbviewer link if github can't render](https://nbviewer.org/github/ansingh1214/Deep-VPS/blob/1/DeepVPS.ipynb)
 
 #### For the illustration, we show how this method can be used to get the time-dependent committment probabilities and the corresponding Doob potential and forces for reactive events:
 ![viz1](https://github.com/ansingh1214/Deep-VPS/blob/1/anim/viz1.gif)
