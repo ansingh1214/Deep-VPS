@@ -13,5 +13,5 @@ The form of the loss is given by the difference in Onsager-Machlup action, that 
 Moreover, the transient growth of the contributions can be used to infer the the sequence of activation of different modes of the system during a reactive event.
 ![viz2](https://github.com/ansingh1214/Deep-VPS/blob/1/anim/viz2.gif)
 ## ##
-Finally, the learned forces can be used as an optimal control protocol to generate new reactive trajectories. These trajectories are going to be virtually indistinguishable from reference reactive trajectories (see [1](https://doi.org/10.1063/1.5128956) & [2](https://doi.org/10.1103/PhysRevLett.128.028005) for more info).
+Finally, the learned forces can be used as an optimal control protocol to generate new reactive trajectories. These trajectories are going to be virtually indistinguishable from reference reactive trajectories (see [1](http://www.cchem.berkeley.edu/dtlgrp/papers/DL63.pdf) & [2](http://www.cchem.berkeley.edu/dtlgrp/papers/DL70.pdf) for more info).
 ![fig1](https://github.com/ansingh1214/Deep-VPS/blob/1/anim/fig2.png)
